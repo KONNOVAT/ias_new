@@ -9,12 +9,12 @@ main:
   - name: Features
     url: /#features
     weight: 20
-  - name: Solutions
+  - name: Решения
     url: /#solutions
     weight: 30
-  - name: Resources
+  - name: Ресурсы
     weight: 40
     hasChildren: true
   - parent: Resources
-    name: Blog
+    name: О нас
     url: blog/

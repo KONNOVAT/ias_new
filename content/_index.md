@@ -118,19 +118,19 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
+        - name: "Мария Иванова"
+          role: "Маркетолог компании МДМ-СИСТЕМС"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+          text: "Моя компания расцвела с приходом в неё LLM-INTEGRATION"
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Построй систему мечты вместе с нами!
+      text: Просто, как  1, 2, 3!
       button:
         text: Get Started
         url: https://hugoblox.com/templates/
