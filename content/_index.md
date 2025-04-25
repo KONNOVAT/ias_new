@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Главная'
+date: 2025-10-24
 type: landing
 
 design:
